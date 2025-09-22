@@ -5,7 +5,7 @@ Comparative study of spam SMS detection using zero-shot LLMs (GPT-4o) and fine-t
 ## 📑 Project Slides
 
 You can view the full slide deck here:  
-[👉 202509_SpamDetection_slide.pdf](202509_SpamDetection_slide.pdf)
+[👉 202509_SpamDetection_slide.pdf](202509_SpamDetection_slide.pdf) 
 
 
 # Spam SMS Detection with LLMs and Transformers
