@@ -1,6 +1,7 @@
 # sms-spam-detection-zero-shot-GPT-vs-BERT
 Comparative study of spam SMS detection using zero-shot LLMs (GPT-4o) and fine-tuned Transformer models (DistilBERT, RoBERTa). Includes EDA, model training, evaluation on F1 score with precision–recall trade-offs for real-world deployment.
 
+![Project Title](Image%2022-9-2568%20BE%20at%2017.31.jpeg) 
 
 ## 📑 Project Slides
 
