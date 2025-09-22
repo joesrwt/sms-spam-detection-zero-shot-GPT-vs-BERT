@@ -14,14 +14,6 @@ It explores trade-offs between **accuracy, efficiency, and labeled data availabi
   - **Zero-Shot LLM**: GPT-4o with prompt engineering  
   - **Fine-Tuned Transformers**: DistilBERT, RoBERTa  
 
-## ⚙️ Models & Results
-
-| Model                     | Precision | Recall | F1 Score |
-|----------------------------|-----------|--------|----------|
-| GPT-4o (zero-shot)         | 0.8045    | 0.9664 | 0.8780   |
-| DistilBERT (fine-tuned)    | 0.9726    | 0.9530 | 0.9627   |
-| RoBERTa (fine-tuned)       | 0.9931    | 0.9597 | 0.9761   |
-
 
 ## 📊 Key Insights
 - Spam messages often contain terms like **“cash”**, **“prize”**, and **“customer service.”**  
