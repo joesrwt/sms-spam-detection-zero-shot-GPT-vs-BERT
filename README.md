@@ -22,12 +22,6 @@ It explores trade-offs between **accuracy, efficiency, and labeled data availabi
 | DistilBERT (fine-tuned)    | 0.9726    | 0.9530 | 0.9627   |
 | RoBERTa (fine-tuned)       | 0.9931    | 0.9597 | 0.9761   |
 
-## 🛠️ Tech Stack
-- Python  
-- PyTorch  
-- Hugging Face Transformers  
-- GPT-4o (zero-shot via API)  
-- Scikit-learn, Matplotlib  
 
 ## 📊 Key Insights
 - Spam messages often contain terms like **“cash”**, **“prize”**, and **“customer service.”**  
